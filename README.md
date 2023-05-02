@@ -34,3 +34,10 @@
   	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<div align="center">
+	<h2>SNS & Portfolio</h2>
+</div>
+<div align="center">
+  	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white" />
+</div>
