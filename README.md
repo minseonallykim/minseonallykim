@@ -2,7 +2,7 @@
 <div align="center">
 	<h2>Contact</h2>
 	<a href="mailto:minseonallykim@gmail.com">
-	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:minseonallykim@gmail.com" />
 	</a>
 </div>
 <div align="center">
