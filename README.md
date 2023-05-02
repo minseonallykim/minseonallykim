@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minseon%20Github&fontSize=50&fontColor=ffffff&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5198FF&height=200&section=header&text=Minseon%20Github&fontSize=50&fontColor=ffffff&fontAlign=50)
 <div align="center">
 	<h2>Contact</h2>
 	<a href="mailto:minseonallykim@gmail.com">
@@ -47,6 +47,6 @@
   	<a href="https://shorturl.at/dBIQ6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 </div>
 <div>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=5198FF&height=200&section=footer" />	
 </div>
 
