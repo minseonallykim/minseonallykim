@@ -41,7 +41,4 @@
   	<a href="https://shorturl.at/dBIQ6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minseonallykim&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=minseonallykim&show_icons=true">
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
