@@ -42,3 +42,4 @@
 	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
