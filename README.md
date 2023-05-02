@@ -38,6 +38,6 @@
 	<h2>SNS & Portfolio</h2>
 </div>
 <div align="center">
-  	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+  	<a href="https://shorturl.at/dBIQ6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
