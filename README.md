@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minseon%20Github&fontSize=50&fontColor=ffffff&fontAlign=50)
 <div align="center">
-	<p>Tech Stack</p>
+	<h2><p>Tech Stack</p></h2>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
