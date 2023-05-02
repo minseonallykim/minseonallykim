@@ -46,5 +46,7 @@
 <div align="center">
   	<a href="https://shorturl.at/dBIQ6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 </div>
-
+<div>
+	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" />	
+</div>
 
