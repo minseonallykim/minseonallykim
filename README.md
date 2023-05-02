@@ -41,7 +41,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <div align="center">
-	<h2>SNS & Portfolio</h2>
+	<h2>BLOG</h2>
 </div>
 <div align="center">
   	<a href="https://shorturl.at/dBIQ6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
