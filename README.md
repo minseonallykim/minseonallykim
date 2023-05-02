@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minseon%20Github&fontSize=50&fontColor=ffffff&fontAlign=50)
 <div align="center">
+	<h2>Contact</h2>
+	<a href="mailto:minseonallykim@gmail.com">
+	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+</div>
+<div align="center">
 	<h2>Tech Stack</h2>
 </div>
 <div align="center">
@@ -39,10 +45,6 @@
 </div>
 <div align="center">
   	<a href="https://shorturl.at/dBIQ6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
-	<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </div>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minseonallykim&layout=compact)
-</div>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
 
