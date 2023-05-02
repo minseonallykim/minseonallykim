@@ -3,6 +3,9 @@
 	<h2>Tech Stack</h2>
 </div>
 <div align="center">
+	<h5>Main</h5>
+</div>
+<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
  	 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 </div>
@@ -13,4 +16,13 @@
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Oracle SQL-F80000?style=flat&logo=Oracle SQL&logoColor=white" />
+</div>
+<div align="center">
+	<h5>Sub</h5>
+</div>
+<div align="center">
+  	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
+	<img src="https://img.shields.io/badge/Handlebars.js-000000?style=flat&logo=Handlebars.js&logoColor=white" />
 </div>
