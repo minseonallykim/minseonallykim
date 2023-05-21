@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5198FF&height=200&section=header&text=MinseonKim%20Github&fontSize=50&fontColor=ffffff&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5198FF&height=200&section=header&text=MinseonKim's%20Github&fontSize=50&fontColor=ffffff&fontAlign=50)
 <div align="center">
 	<h2>Contact</h2>
 	<a href="mailto:minseonallykim@gmail.com"><p>Email : minseonallykim@gmail.com</p></a>
