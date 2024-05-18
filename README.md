@@ -31,12 +31,6 @@
 	<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
 	<img src="https://img.shields.io/badge/Handlebars.js-000000?style=flat&logo=Handlebars.js&logoColor=white" />
 </div>
-<div align="center">
-	<h2>BLOG</h2>
-</div>
-<div align="center">
-  	<a href="https://shorturl.at/dBIQ6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
-</div>
 <div>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=5198FF&height=200&section=footer" />	
 </div>
